@@ -1,0 +1,12 @@
+Rgb 57, 8, 87
+#390857
+
+Rgb 59, 182, 135
+#3bb687
+
+RGB 171, 11, 75
+#ab0b4b
+
+old primary
+59886b
+old secondary
